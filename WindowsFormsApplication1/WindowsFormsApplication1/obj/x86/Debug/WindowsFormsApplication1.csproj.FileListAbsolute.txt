@@ -1,0 +1,7 @@
+C:\Users\boda8\Desktop\Проектування та розробка інформаційних систем\Konferentsiyi\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\boda8\Desktop\Проектування та розробка інформаційних систем\Konferentsiyi\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\boda8\Desktop\Проектування та розробка інформаційних систем\Konferentsiyi\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\boda8\Desktop\Проектування та розробка інформаційних систем\Konferentsiyi\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\boda8\Desktop\Проектування та розробка інформаційних систем\Konferentsiyi\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\boda8\Desktop\Проектування та розробка інформаційних систем\Konferentsiyi\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\boda8\Desktop\Проектування та розробка інформаційних систем\Konferentsiyi\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
